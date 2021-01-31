@@ -1,0 +1,2 @@
+# kodi
+configuration with kodi
